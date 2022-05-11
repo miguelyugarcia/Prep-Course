@@ -1,0 +1,21 @@
+h1{
+    color: crimson;
+
+}
+img{
+    width: 400px;
+
+}
+#thrirdDiv {
+    width: 500px;
+    height: 600px;
+    background-color: bisque;
+    padding: 50px;
+    border: dashed;
+    border-color: red;
+
+}
+#spanid{
+    font-size: 50px;
+    margin: 50px;
+}
